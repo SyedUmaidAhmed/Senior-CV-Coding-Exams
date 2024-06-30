@@ -46,8 +46,26 @@ Make the Virtual Environment with Version of Python=3.9. Run the "requirements.t
 
 
 ### Answer 3
+
+We have tested this bash script by making Virtual Machine on my Laptop.
 :heavy_check_mark:
 ![Question No#3](Question_3/Bash_code.PNG)
+
+
+### Answer 4
+:heavy_check_mark:
+
+The response is stored in the form of the text file in folder
+
+
+### Answer 5
+:heavy_check_mark:
+
+The evaluation metrics are as follows: We have used the annotation files and applied five augmentation techniques on dataset. 
+Here is the output.
+
+![Question No#5](Question_5/Object_Detection_metrics.PNG)
+
 
 
 
