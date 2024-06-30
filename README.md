@@ -61,6 +61,7 @@ The response is stored in the form of the text file in folder
 ### Answer 5
 :heavy_check_mark:
 
+The notebook contains all visualization, Graphs and Confusion Matrices.
 The evaluation metrics are as follows: We have used the annotation files and applied five augmentation techniques on dataset. 
 - Rotation
 - Brightness
@@ -70,9 +71,17 @@ The evaluation metrics are as follows: We have used the annotation files and app
 - 90 Degree Rotation
 
 
-Here is the output.
+Here is the output. We used "YOLOv8 First"
 
 ![Question No#5](Question_5/Object_Detection_metrics.PNG)
+
+
+:heavy_check_mark:
+We have trained another model on YOLOv9
+Here is the output. We used "YOLOv9 with all Evaluation Metrics"
+
+![Question No#5](Question_5/res_yolo.PNG)
+![Question No#5](Question_5/rest.PNG)
 
 
 
