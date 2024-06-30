@@ -1,0 +1,14 @@
+Explanation of Each Method
+Using sed:
+
+sed is a stream editor. The -n option suppresses automatic printing of pattern space. '10p' tells sed to print only the 10th line.
+Using awk:
+
+awk is a powerful text processing tool. NR==10 is an awk condition that triggers an action (default print) when the record number (line number) is 10.
+Using head and tail:
+
+head -n 10 file.txt prints the first 10 lines of the file.
+tail -n 1 then takes the last line from the output of head, which is the 10th line of the original file.
+Using a bash script:
+
+This script first checks if file.txt exists. If it does, it uses sed to print the 10th line.
