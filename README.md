@@ -30,6 +30,12 @@ A step by step series of examples that tell you how to get a development-env run
 Make the Virtual Environment with Version of Python=3.9. Run the "requirements.txt" file in the Virtual Environment
 
 
+### The Outputs generated can be visualized in the Provided Screenshot 
+:heavy_check_mark:
+![Question No#1](output_results/res.png)
+
+
+
 ## Built With
 
 * [Ultralytics](https://docs.ultralytics.com/) - To Train the Object Detection Models
