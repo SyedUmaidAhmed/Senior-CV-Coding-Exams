@@ -84,6 +84,12 @@ Here is the output. We used "YOLOv9 with all Evaluation Metrics"
 ![Question No#5](Question_5/rest.PNG)
 
 
+## Custom Trained Model Download Link
+
+* [Custom Self Trained Model File](https://drive.google.com/file/d/1ZgtXwsUixdLqlGseUewgi_NvoK6PXBUR/view?usp=sharing) - Trained Object Detection Models
+
+
+
 
 
 ## Built With
