@@ -29,11 +29,6 @@ A step by step series of examples that tell you how to get a development-env run
 
 Make the Virtual Environment with Version of Python=3.9. Run the "requirements.txt" file in the Virtual Environment
 
-```
-pip install -r requirements.txt
-```
-
-
 
 ## Built With
 
