@@ -6,7 +6,7 @@ This repository is the solution of Senior Computer Vision coding exams for an or
 
 This repository belongs to the trial project given by Nexa Quanta (Lahore) for the Test Purposes. Syed Umaid has written this code in a way to run it through desired functionality
 
-# Puthin, Linux and CV Skills Evaluation 
+# Python, Linux and CV Skills Evaluation 
 
 Objective is to write python codes, SQL codes, bash scripts and training models for the given queries
 
