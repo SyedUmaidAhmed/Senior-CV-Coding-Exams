@@ -62,6 +62,14 @@ The response is stored in the form of the text file in folder
 :heavy_check_mark:
 
 The evaluation metrics are as follows: We have used the annotation files and applied five augmentation techniques on dataset. 
+- Rotation
+- Brightness
+- Shear
+- Exposure
+- Flipping
+- 90 Degree Rotation
+
+
 Here is the output.
 
 ![Question No#5](Question_5/Object_Detection_metrics.PNG)
