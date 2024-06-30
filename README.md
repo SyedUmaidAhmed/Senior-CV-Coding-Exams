@@ -44,6 +44,13 @@ Make the Virtual Environment with Version of Python=3.9. Run the "requirements.t
 ![Question No#2](Question_2/Question_2.PNG)
 
 
+
+### Answer 3
+:heavy_check_mark:
+![Question No#3](Question_3/Bash_code.PNG)
+
+
+
 ## Built With
 
 * [Ultralytics](https://docs.ultralytics.com/) - To Train the Object Detection Models
