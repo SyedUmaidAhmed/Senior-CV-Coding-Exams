@@ -31,10 +31,15 @@ Make the Virtual Environment with Version of Python=3.9. Run the "requirements.t
 
 
 ### The Outputs generated can be visualized in the Provided Screenshot 
+### Answer 1
+
 :heavy_check_mark:
 ![Question No#1](output_results/res.png)
 
 
+
+
+### Answer 2
 :heavy_check_mark:
 ![Question No#2](Question_2/Question_2.PNG)
 
