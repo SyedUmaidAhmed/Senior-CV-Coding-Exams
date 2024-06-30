@@ -35,6 +35,9 @@ Make the Virtual Environment with Version of Python=3.9. Run the "requirements.t
 ![Question No#1](output_results/res.png)
 
 
+:heavy_check_mark:
+![Question No#2](Question_2/Question_2.PNG)
+
 
 ## Built With
 
